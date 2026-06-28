@@ -1,0 +1,11 @@
+[2026-05-26 10:00:00] User: SYSTEM          | Action: Seeded default administrative configuration and rooms.
+[2026-05-26 10:15:00] User: admin           | Action: Registered students STU-001 to STU-005.
+[2026-05-26 10:20:00] User: admin           | Action: Allotted rooms and logged initial payments.
+[2026-05-26 12:29:20] User: SYSTEM          | Action: Initialized default configuration and preloaded databases with test data.
+[2026-05-26 12:30:00] User: admin           | Action: Logged into administrative interface.
+[2026-05-26 12:34:26] User: admin           | Action: Registered student JAYADEVA K KANAKUPPI (STU-006)
+[2026-05-29 10:07:20] User: admin           | Action: Logged in via Web Console.
+[2026-05-29 10:14:51] User: admin           | Action: Registered student Arya Pattanshetty (STU-007) via Web Dashboard.
+[2026-05-29 10:16:06] User: admin           | Action: Allotted room 101 in Maratha Block to Arya Pattanshetty via Web Dashboard.
+[2026-05-29 10:20:53] User: SYSTEM          | Action: Failed web login attempt.
+[2026-05-29 10:21:01] User: admin           | Action: Logged in via Web Console.
